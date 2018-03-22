@@ -1,0 +1,6 @@
+server:
+  port: 8080
+message: Hello,World
+girl:
+  cupSize: B
+  age: 18

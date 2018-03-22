@@ -1,0 +1,13 @@
+/Users/fuwei/projects/girl/src/main/java/com/imooc/girl/enums/ResultEnum.java
+/Users/fuwei/projects/girl/src/main/java/com/imooc/girl/utils/ResultUtil.java
+/Users/fuwei/projects/girl/src/main/java/com/imooc/girl/repository/GirlRepository.java
+/Users/fuwei/projects/girl/src/main/java/com/imooc/girl/exception/GirlException.java
+/Users/fuwei/projects/girl/src/main/java/com/imooc/girl/domain/Result.java
+/Users/fuwei/projects/girl/src/main/java/com/imooc/girl/handle/ExceptionHandle.java
+/Users/fuwei/projects/girl/src/main/java/com/imooc/girl/controller/GirlController.java
+/Users/fuwei/projects/girl/src/main/java/com/imooc/girl/domain/Girl.java
+/Users/fuwei/projects/girl/src/main/java/com/imooc/girl/controller/HelloController.java
+/Users/fuwei/projects/girl/src/main/java/com/imooc/girl/properties/GirlProperties.java
+/Users/fuwei/projects/girl/src/main/java/com/imooc/girl/service/GirlService.java
+/Users/fuwei/projects/girl/src/main/java/com/imooc/girl/aspect/HttpAspect.java
+/Users/fuwei/projects/girl/src/main/java/com/imooc/girl/GirlApplication.java
